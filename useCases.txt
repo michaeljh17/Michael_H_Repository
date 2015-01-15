@@ -2,9 +2,9 @@ Cucumber-style syntax
 
 Title: Student attempts to login to the system
 
-As a Student 
+As a user
 I want log in to the system
-So that I can start playing the games
+So that I can start playing the word-recognition games
 
 Scenarios:
 
