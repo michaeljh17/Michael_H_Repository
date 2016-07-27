@@ -34,3 +34,5 @@ When a user enters a username and a password into the login fields
 Then the system does not validate the username and firstname 
 And the system prevents the user from logging in
 And the system alerts the user that he or she has entered an invalid username and / or invalid password
+
+*
